@@ -6,4 +6,5 @@
 * Kullanıcı dairenin, oda sayısı, m2, bulunduğu kat ve bina yaşı gibi bilgileri girerek tahmini ev fiyatlrına ulaşabilir oldu.
 
 * Arayüzün görünümü
+
 ![data](https://r.resimlink.com/yVCQTKiJkUt.png)
